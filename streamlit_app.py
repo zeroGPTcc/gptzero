@@ -11,7 +11,7 @@ Our AI content detector, ZeroGPT.cc, uses massive amounts of data from different
 
 Our AI text detector works effectively for all versions of GPT models, including GPT-4. You can easily detect whether your text is human-written or AI/GPT Generated. Our AI text detector accurately displays the percentage of AI/GPT plagiarized text for an in-depth analysis of your content.
 
-![ZeroGPT AI Content Detector](https://zerogpt.cc/static/images/zerogpt-result.png){: width="600" height="400"}
+![ZeroGPT AI Content Detector](https://zerogpt.cc/static/images/zerogpt-result.png)
 
 # Check out website for more details: https://zerogpt.cc
 
