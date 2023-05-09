@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 """
-# AI Content Detector -  ZeroGPT.CC - GPTZero Alternative
+# GPTZero Alternative - AI Content Detector -  ZeroGPT.CC
 # How Does the AI ZeroGPT.cc Work?
 Our AI content detector, ZeroGPT.cc, uses massive amounts of data from different sources to precisely predict the origin of a text or a phrase. It has been tested and trained to use combinations of machine learning algorithms alongside natural language processing techniques to present the most accurate results. These algorithms are designed and developed by the expert and professional team of ZeroGPT. The accuracy of these algorithms is backed by several in-house experiments and published highly reputable papers.
 
