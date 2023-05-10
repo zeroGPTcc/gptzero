@@ -7,5 +7,5 @@ Our AI text detector works effectively for all versions of GPT models, including
 
 ![ZeroGPT AI Content Detector](https://github.com/zeroGPTcc/gptzero/blob/main/zerogpt-result.png)
 
-Check out website for more details: https://zerogpt.cc
+# Check out website for more details: https://zerogpt.cc
 
